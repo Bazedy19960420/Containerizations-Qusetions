@@ -67,9 +67,7 @@
     <strong>What are some deployment options for containerized applications?</strong>
     <ul>
       <li>
-         Deployment options include using Azure VMs, Azure App Services, and Azure Load Balancers. These services can manage scaling and deployment of containers efficiently.
-
-      </li>
+         Deployment options include using Azure VMs, Azure App Services, and Azure Load Balancers. These services can manage scaling and deployment of containers efficiently.</li>
     </ul>
   </li>
   <li>
